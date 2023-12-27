@@ -1,0 +1,32 @@
+{
+  "name": "model",
+  "version": "1.0.0",
+  "description": "this is nerual network management library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathurapriyashan/model.git"
+  },
+  "keywords": [
+    "chathura",
+    "model",
+    "neuralnetwork",
+    "javascript",
+    "dense",
+    "softmax",
+    "relu"
+  ],
+  "author": "chathura priyashan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chathurapriyashan/model/issues"
+  },
+  "homepage": "https://github.com/chathurapriyashan/model#readme",
+  "dependencies": {
+    "chathura-model": "^2.3.1",
+    "npm-matrix": "^1.1.0"
+  }
+}
